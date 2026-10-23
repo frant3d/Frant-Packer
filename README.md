@@ -127,6 +127,6 @@ The project is intended to maintain a minimal, understandable structure while ke
 
 **Frant-Packer**
 
-*Focused. Native. Minimal.*
+*"El Psy Kongroo."*
 
 </div>
